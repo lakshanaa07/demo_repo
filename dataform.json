@@ -1,0 +1,8 @@
+{
+  "defaultSchema": "dataform",
+  "assertionSchema": "dataform_assertions",
+  "warehouse": "bigquery",
+  "defaultDatabase": "feisty-ceiling-414712",
+  "defaultLocation": "asia-south1"
+}
+    
